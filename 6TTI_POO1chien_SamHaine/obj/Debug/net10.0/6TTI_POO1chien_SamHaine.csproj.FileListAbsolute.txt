@@ -1,0 +1,15 @@
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\bin\Debug\net10.0\6TTI_POO1chien_SamHaine.exe
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\bin\Debug\net10.0\6TTI_POO1chien_SamHaine.deps.json
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\bin\Debug\net10.0\6TTI_POO1chien_SamHaine.runtimeconfig.json
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\bin\Debug\net10.0\6TTI_POO1chien_SamHaine.dll
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\bin\Debug\net10.0\6TTI_POO1chien_SamHaine.pdb
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\6TTI_POO1chien_SamHaine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\6TTI_POO1chien_SamHaine.AssemblyInfoInputs.cache
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\6TTI_POO1chien_SamHaine.AssemblyInfo.cs
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\6TTI_POO1chien_SamHaine.csproj.CoreCompileInputs.cache
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\6TTI_POO1chien_SamHaine.dll
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\refint\6TTI_POO1chien_SamHaine.dll
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\6TTI_POO1chien_SamHaine.pdb
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\6TTI_POO1chien_SamHaine.genruntimeconfig.cache
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\ref\6TTI_POO1chien_SamHaine.dll
+C:\Users\123\Downloads\6TTI_POO1chien_SamHaine\6TTI_POO1chien_SamHaine\obj\Debug\net10.0\6TTI_POO.8F7C5D4A.Up2Date
